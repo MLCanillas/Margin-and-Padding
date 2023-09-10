@@ -1,0 +1,31 @@
+#box1 {
+    background-color: hsl(180, 100%, 50%);
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+#box2 {
+    background-color: hsl(160, 100%, 75%);
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+#box3 {
+    background-color: hsl(10, 53%, 47%);
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+#box4 {
+    background-color: hsl(240, 100%, 50%);
+    margin-top: 20px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 100px;
+}
